@@ -1,0 +1,45 @@
+.pl-sn-hide {
+z-index:1;
+}
+
+.pl-sn-hide .pl-sn-pad {
+    padding: 0;
+  }
+
+.pl-sn-hide .pl-container-wrap {
+    padding: 0;
+}
+
+h3.hide-title {
+      cursor: pointer;
+  }
+  h3.hide-title {
+      margin: 0;
+  }
+
+.hide-btn.pl-alignment-center {
+      padding: 1em;
+  }
+  h3.hide-title {
+      line-height: 71px;
+      font-size: 20px;
+  }
+  i.hs-icon {
+    margin-left: .3em;
+}
+
+.join-container1 {
+	text-align: center;
+}
+.join-container1, .join-container2 {
+	min-height: 30px;
+}
+.join-arrow {
+	position: relative;
+	-webkit-transform: rotate(45deg); 
+    -moz-transform: rotate(45deg);  
+    transform: rotate(45deg);  
+    top: 50%;
+	margin: auto;
+	
+}
